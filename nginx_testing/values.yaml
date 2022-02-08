@@ -8,15 +8,15 @@
 ##
 
 env:
-  input1: ""
-  input2: ""
-  input3: ""
-  input4: ""
+  input_a: ""
+  input_b: ""
+  input_c: ""
+  input_d: ""
 
-input5: ""
-input5: ""
-input5: ""
-input5: ""
+input_e: ""
+input_f: ""
+input_g: ""
+input_h: ""
 
 global:
   imageRegistry: ""
